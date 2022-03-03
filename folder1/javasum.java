@@ -6,7 +6,7 @@ public class javasum {
 		int a=8;
 		int b=9;
 		System.out.print("sum is ="+ (a+b));
-		System.out.print("Changes for the branch1");
+		System.out.print("Changes for the branch1 2");
 
 
 	}
